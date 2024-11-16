@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c6ad8bc8b8f4de2b","x":-100,"y":-180,"width":400,"height":400,"type":"file","file":"beating out mashers.md"},
+		{"id":"5541f56f9a85817b","x":-420,"y":120,"width":250,"height":60,"type":"text","text":"asd"},
+		{"id":"444de537fbe0b70d","x":-570,"y":-360,"width":400,"height":400,"type":"file","file":"stop being afraid of being next to fox.md"}
+	],
+	"edges":[
+		{"id":"d9865a329bcee383","fromNode":"444de537fbe0b70d","fromSide":"right","toNode":"c6ad8bc8b8f4de2b","toSide":"left"},
+		{"id":"155bc79ed86b3eb7","fromNode":"c6ad8bc8b8f4de2b","fromSide":"bottom","toNode":"5541f56f9a85817b","toSide":"bottom"}
+	]
+}

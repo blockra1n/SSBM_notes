@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "55a7619a70877a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "df5d966530a39703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01293552ccdbafa4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "283f25618c1d5676",
+    "type": "split",
+    "children": [
+      {
+        "id": "c45dfb1bdd0e69ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68a5e22f21b79f11",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e7d7c9c1b7c540e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "219435159e83d60c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "234b8c93664620fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb2f541b87d1a2d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26bb8d8ce3b99cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f266b8bf87805989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "de8c5f030865a5c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "821a9b6f61f7b03d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dash dance interaction points.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of dash dance interaction points"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "01293552ccdbafa4",
+  "lastOpenFiles": [
+    "objects/info",
+    "objects/pack",
+    "objects",
+    "config",
+    "HEAD",
+    "refs/tags",
+    "refs/heads",
+    "refs",
+    "branches",
+    "hooks/update.sample",
+    "hooks/push-to-checkout.sample",
+    "vs falco midrange mash.md",
+    "stop being afraid of being next to fox.md",
+    "spacie low recovery regrab edgeguard.md",
+    "sheik platform body language.md",
+    "sheik ground play.md",
+    "Pasted Image 20241115161230_801.png",
+    "passively stealing dashdance space.md",
+    "ditto wall range analysis.md",
+    "falco neutral layers foundation.md",
+    "beating out mashers.md",
+    "dash dance interaction points.md",
+    "Untitled.md",
+    "vs.md",
+    "Drawing 2024-11-14 19.57.30.excalidraw.md",
+    "Untitled.canvas",
+    "sheik platform body language 1.md",
+    "Drawing 2024-11-13 16.01.56.excalidraw.md",
+    "create a link.md",
+    "Untitled 1.md",
+    "link 2.md",
+    "Welcome.md"
+  ]
+}
