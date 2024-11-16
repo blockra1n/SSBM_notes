@@ -159,6 +159,7 @@
   },
   "active": "01293552ccdbafa4",
   "lastOpenFiles": [
+    "README.md",
     "objects/info",
     "objects/pack",
     "objects",
@@ -169,7 +170,6 @@
     "refs",
     "branches",
     "hooks/update.sample",
-    "hooks/push-to-checkout.sample",
     "vs falco midrange mash.md",
     "stop being afraid of being next to fox.md",
     "spacie low recovery regrab edgeguard.md",
