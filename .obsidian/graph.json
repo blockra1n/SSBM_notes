@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#marth  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.60416666666667,
   "linkStrength": 0.942708333333333,
   "linkDistance": 167,
-  "scale": 1.0000000000000007,
-  "close": true
+  "scale": 1.0000000000000009,
+  "close": false
 }

@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "df5d966530a39703",
+        "id": "f794058100f596f4",
         "type": "tabs",
         "children": [
           {
-            "id": "01293552ccdbafa4",
+            "id": "4c5451105543fd6e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "beating out mashers.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "beating out mashers"
             }
           }
         ]
@@ -157,8 +159,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01293552ccdbafa4",
+  "active": "4c5451105543fd6e",
   "lastOpenFiles": [
+    "respect opponent's safety in dashdance.md",
+    "Drawing 2024-11-29 14.21.32.excalidraw.md",
+    "marth on platform.md",
+    "passively stealing dashdance space.md",
+    "dash dance interaction points.md",
     "README.md",
     "objects/info",
     "objects/pack",
@@ -176,11 +183,9 @@
     "sheik platform body language.md",
     "sheik ground play.md",
     "Pasted Image 20241115161230_801.png",
-    "passively stealing dashdance space.md",
     "ditto wall range analysis.md",
     "falco neutral layers foundation.md",
     "beating out mashers.md",
-    "dash dance interaction points.md",
     "Untitled.md",
     "vs.md",
     "Drawing 2024-11-14 19.57.30.excalidraw.md",
